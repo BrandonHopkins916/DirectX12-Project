@@ -1,0 +1,6 @@
+﻿  Sample3DSceneRenderer.cpp
+P:\GitHub Code\DirectX 12 Project\Sphere\Content\Sample3DSceneRenderer.cpp(146,74): error C2065: 'vertexBufferSize': undeclared identifier
+P:\GitHub Code\DirectX 12 Project\Sphere\Content\Sample3DSceneRenderer.cpp(169,47): error C2065: 'cubeVertices': undeclared identifier
+P:\GitHub Code\DirectX 12 Project\Sphere\Content\Sample3DSceneRenderer.cpp(170,26): error C2065: 'vertexBufferSize': undeclared identifier
+P:\GitHub Code\DirectX 12 Project\Sphere\Content\Sample3DSceneRenderer.cpp(296,43): error C2065: 'cubeVertices': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\bin\10.0.20348.0\XamlCompiler\Microsoft.Windows.UI.Xaml.Common.targets(486,5): error MSB4181: The "CompileXaml" task returned false but did not log an error.

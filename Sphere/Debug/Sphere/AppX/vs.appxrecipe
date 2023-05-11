@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BRANDON-PC</Machine>
+    <WindowsUser>BRANDON</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>2447f407-1faf-4d93-9675-b976fef93f66</PackageIdentityName>
+    <PackageIdentityPublisher>CN=BRANDON</PackageIdentityPublisher>
+    <IntermediateOutputPath>P:\GitHub Code\DirectX 12 Project\Sphere\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>P:\GitHub Code\DirectX 12 Project\Sphere\Debug\Sphere\AppX</LayoutDir>
+    <RegisteredManifestChecksum>BCE566A9C91F1395AB3634C47CE4FA46EA05206507653B7059D71164C9A9A9D4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2447f407-1faf-4d93-9675-b976fef93f66_1.0.0.0_x86__z59vcn54h4yt4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2447f407-1faf-4d93-9675-b976fef93f66_z59vcn54h4yt4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2447f407-1faf-4d93-9675-b976fef93f66</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BRANDON</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="P:\GitHub Code\DirectX 12 Project\Sphere\Debug\Sphere\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-05-08T21:03:54.250</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Debug\Sphere\Sphere.exe">
+      <PackagePath>Sphere.exe</PackagePath>
+      <Modified>2023-05-08T21:13:05.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Debug\Sphere\Sphere.winmd">
+      <PackagePath>Sphere.winmd</PackagePath>
+      <Modified>2023-05-08T21:03:52.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Debug\Sphere\SamplePixelShader.cso">
+      <PackagePath>SamplePixelShader.cso</PackagePath>
+      <Modified>2023-05-08T21:03:46.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Debug\Sphere\SampleVertexShader.cso">
+      <PackagePath>SampleVertexShader.cso</PackagePath>
+      <Modified>2023-05-08T21:03:47.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2023-04-06T19:09:53.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-06T19:09:53.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-06T19:09:53.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-06T19:09:53.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-06T19:09:53.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-06T19:09:53.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-04-06T19:09:53.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.20348.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2021-05-08T00:48:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="P:\GitHub Code\DirectX 12 Project\Sphere\Debug\Sphere\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2023-05-08T21:03:54.071</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
